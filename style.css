@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+.header {
+  background-color: rgb(222, 231, 228);
+  height: 78px;
+  padding-top: 15 px;
+  margin-bottom: 20px;
+}
+
+.title {
+  padding-top: 13px;
+  font-size: 30px;
+  /* font-family: 'Roboto', sans-serif; */
+  border-bottom: 7px solid blue;
+  border-radius: 7px;
+  width: 160px;
+  padding-right: 1px;
+  margin-left: 30px;
+}
+.text-title {
+  font-size: 38px;
+  padding-left: 25px;
+  font-family: 'Roboto', sans-serif;
+}
+.formas {
+  border-top: 9px solid blue;
+  border-end-end-radius: 19px;
+  border-end-start-radius: 19px;
+  border-top-left-radius: 19px;
+  border-top-right-radius: 19px;
+  height: 230px;
+  max-width: 412px;
+  margin-top: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(222, 231, 228);
+}
+.formas-text {
+  /* padd */
+  padding-left: 30px;
+  font-size: 40px;
+  font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+
+  /* padding-top: 15px; */
+}
+.form-code {
+  border-end-end-radius: 7px;
+  border-end-start-radius: 7px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  margin-left: 30px;
+  margin-bottom: 60px;
+  background-color: rgb(222, 231, 228);
+  width: 300px;
+  height: 33px;
+}
+/* .form-group {
+  margin-top: 1px;
+} */
+.label-text {
+  padding-left: 33px;
+  padding-top: 60px;
+  margin-bottom: 50px;
+  margin-top: 90px;
+
+}
+.form-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align items to the starting point */
+}
+
+.form-code {
+  /* Existing styles */
+  border-end-end-radius: 7px;
+  border-end-start-radius: 7px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  background-color: rgb(222, 231, 228);
+  width: 300px;
+  height: 33px;
+
+  /* New style */
+  /* margin-top: 15px; */
+}
+.btn {
+  border-end-end-radius: 7px;
+  border-end-start-radius: 7px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  margin-left: 30px;
+  background-color: rgb(60, 60, 253);
+  color: white;
+  width: 75px;
+  height: 33px;
+  line-height: none;
+  /* box-shadow: none; */
+}
+.btn :hover {
+  color: white;
+  background-color: white;
+}
+/* .form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-code {
+  /* Existing styles */
+  border-end-end-radius: 7px;
+  border-end-start-radius: 7px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  background-color: rgb(222, 231, 228);
+  width: 300px;
+  height: 33px;
+
+  /* New style */
+  margin-bottom: 0;
+} */
+
+/* .last {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30px;
+  margin-bottom: 150px;
+}
+.btn {
+  /* Existing styles */
+  border: none;
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+
+  /* New styles */
+  margin-bottom: 150px;
+  margin-right: 30px;
+  align-self: flex-end;
+} */
+
+/* .foot {
+  margin-bottom: 50px;
+  padding-bottom: 70px;
+} */
+/* .foot-form {
+  max-width: 120px;
+} */
+
+/* .btn {
+  border-end-end-radius: 10px;
+  border-end-start-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-bottom: 500px;
+  background-color: blue;
+  color: white;
+} */
